@@ -3,7 +3,7 @@ from textblob import TextBlob
 from newspaper import Article
 
 
-url = 'https://www.ycombinator.com/companies/permitflow/jobs/v1HlvWY-permit-operations-lead'
+url = #input your url here
 article = Article(url)
 
 article.download()
